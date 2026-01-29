@@ -1,9 +1,5 @@
 flask
+flask-cors
 gunicorn
 requests
-pillow
-pyautogui
-pyaudio
-pynput
-psutil
-pywin32
+
